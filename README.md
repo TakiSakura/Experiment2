@@ -100,8 +100,9 @@ me.setCourse(CourseList2);
 System.out.println("学生" + friend.name + "所选课程:\n" + friend.CourseList[0] + "\n" + friend.CourseList[1]);
         System.out.println("学生" + me.name + "所选课程:\n" + me.CourseList[0] + "\n" + me.CourseList[1]);
 ```
-##感想与体会
+## 运行代码截图
+![截图](https://github.com/TakiSakura/Experiment2/blob/11d3f54f40b53fec1c7eb0f895502308c6052cb0/%E6%88%AA%E5%B1%8F2021-11-13%20%E4%B8%8B%E5%8D%883.52.24.png)
+## 感想与体会
 * 这次实验让我对构造方法的使用更加熟悉了。在有相同名称的构造方法的情况下，只要方法中的参数类型和个数不同，就能互不干扰。
 * 本次实验第一次用到了数组。并让我了解到，java的数组不只限于int和string类型。该可以根据类本身定义类型，这让我有了很多的想法，并迫不及待的去尝试数组的更多用途
 * 编写代码的过程中遇到了很多的麻烦。例如代码的语法或者格式不对，导致报错和无法运行。我觉得这是我对某些知识或者代码样式还没完全记下来。导致不能以正确的方式表达出来
-* 
